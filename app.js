@@ -1,5 +1,3 @@
-console.log("Start");
-
 let userScore = 0;
 let compterScore = 0;
 
